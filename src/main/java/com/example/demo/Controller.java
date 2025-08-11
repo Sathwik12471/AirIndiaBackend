@@ -2,7 +2,7 @@ package com.example.demo;
 
 public class Controller {
 	public String greet() {
-		return "hello from rutish";
+		return "hello from pranay and rutish";
 	}
 
 }
